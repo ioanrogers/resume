@@ -1,0 +1,174 @@
+{
+  "basics": {
+    "name": "Ioan Rogers",
+    "label": "Perl Developer & DevOps Engineer",
+    "picture": "http://cdn.libravatar.org/avatar/6c37c18ab724abb2769d2ff6a962d64f",
+    "email": "ioan@dirtysoft.ca",
+    "phone": "",
+    "website": "https://dirtysoft.ca",
+    "summary": "",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "New Westminster",
+      "countryCode": "CA",
+      "region": "BC"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "ioanrogers",
+        "url": "https://github.com/ioanrogers"
+      },
+      {
+        "network": "keybase.io",
+        "username": "ioanrogers",
+        "url": "https://keybase.io/ioanrogers"
+      },
+      {
+        "network": "Google+",
+        "username": "IoanRogers",
+        "url": "https://plus.google.com/u/0/+IoanRogers"
+      },
+      {
+        "network": "CPAN",
+        "username": "IOANR",
+        "url": "https://metacpan.org/author/IOANR"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "ioanrogers",
+        "url": "http://ca.linkedin.com/in/ioanrogers"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Sophos Ltd",
+      "position": "Senior Systems Engineer",
+      "website": "http://www.sophos.com",
+      "startDate": "2014-05",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        "Piloted FreeIPA and helped get it rolled out to consolidate identity services. Also assisted in rolling out Foreman and Puppet",
+        "Piloted the introduction of Bamboo, and setup various Docker-based projects to use continuous deployment",
+        "Converted a proprietary web application which was having scaling issues to use Amazon ECS and Autoscaling",
+        "Migrated legacy applications to new servers in a new data center as part of a project to improve the reliability of critical internal systems",
+        "Part of a project to migrate monitoring from self-hosted Nagios & Icinga to SaaS LogicMonitor "
+      ]
+    },
+    {
+      "company": "Wi-Free Ltd",
+      "position": "Perl Developer (contract)",
+      "website": "http://web.archive.org/web/20160220050147/http://www.wi-free.com/",
+      "startDate": "2013-04",
+      "endDate": "2014-05",
+      "summary": "Refactoring a proprietary CMS from multiple scripts into one modular commandline application with an improved workflow.",
+      "highlights": [
+        "Added a test suite",
+        "Internationalised",
+        "Converted from CGI to Plack + FastCGI",
+        "Debian packaging"
+      ]
+    },
+    {
+      "company": "CGTV Games Ltd",
+      "position": "Systems Administrator",
+      "website": "http://web.archive.org/web/20120617212010/http://www.cgtvgames.com/en",
+      "startDate": "2006-08",
+      "endDate": "2008-12",
+      "summary": "Lead systems administrator of a small IT department, responsible for all the *nix servers in the company. The company is an end-to-end online gambling provider, creating its own game software and backends, and offering play to the public via its own servers. With the exception of Active Directory services, the company's entire server collection of approx 60 machines runs Unix. For one year I was the sole Unix Admin. At the time I started, the company had far outgrown its existing IT systems, so in addition to the general day-to-day maintenance tasks, I have been designing and implementing improved systems, as well as new ones.",
+      "highlights": [
+        "Setting up a new data centre in a colo in Singapore",
+        "Implementing OpenLDAP for authentication across many Unix services",
+        "Migrating DHCP and DNS servers for the office, adding failover",
+        "Setting up Subversion and Trac for SCM, documentation and collaboration",
+        "Migrating Jabber services and integrating with LDAP",
+        "Implementing Heartbeat/DRBD failover for public-facing web servers",
+        "Defining and documenting new standards for operating systems and applications",
+        "Migrated the company email server from a legacy system to new hardware, adding antivirus, antispam and webmail",
+        "Introduced puppet for configuration management"
+      ]
+    },
+    {
+      "company": "Elior UK Services",
+      "position": "Systems Analyst",
+      "website": "http://www.elior.co.uk",
+      "startDate": "2005-10",
+      "endDate": "2006-06",
+      "summary": "Primarily telephone-based 2nd line internal customer support and repairing PCs",
+      "highlights": [
+        "Developed a PHP/MySQL system for tracking employee training to replace a spreadsheet-based system",
+        "Reduced hardware turnaround from 7-14 days to 1-2"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "CPAN",
+      "position": "Open Source Developer",
+      "website": "https://metacpan.org/author/IOANR",
+      "startDate": "2010",
+      "endDate": "",
+      "summary": "Released a variety of personal projects as open source",
+      "highlights": []
+    }
+  ],
+  "education": [],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Intermediate",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript"
+      ]
+    },
+    {
+      "name": "Perl Development",
+      "level": "Intermediate to advanced",
+      "keywords": [
+        "Moo/Moose",
+        "Plack",
+        "DBIx::Class",
+        ""
+      ]
+    },
+    {
+      "name": "DevOps",
+      "level": "",
+      "keywords": [
+        "Bamboo",
+        "Docker",
+        "Git"
+      ]
+    },
+    {
+      "name": "Databases",
+      "level": "",
+      "keywords": [
+        "PostgreSQL",
+        "MariaDB"
+      ]
+    },
+    {
+      "name": "Other",
+      "level": "",
+      "keywords": [
+        "0mq"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [],
+  "references": []
+}

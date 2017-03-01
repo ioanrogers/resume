@@ -5,7 +5,7 @@
     "picture": "http://cdn.libravatar.org/avatar/6c37c18ab724abb2769d2ff6a962d64f",
     "email": "ioan@dirtysoft.ca",
     "phone": "",
-    "website": "https://dirtysoft.ca",
+    "website": "",
     "summary": "",
     "location": {
       "address": "",
@@ -19,16 +19,6 @@
         "network": "GitHub",
         "username": "ioanrogers",
         "url": "https://github.com/ioanrogers"
-      },
-      {
-        "network": "keybase.io",
-        "username": "ioanrogers",
-        "url": "https://keybase.io/ioanrogers"
-      },
-      {
-        "network": "Google+",
-        "username": "IoanRogers",
-        "url": "https://plus.google.com/u/0/+IoanRogers"
       },
       {
         "network": "CPAN",
@@ -49,13 +39,14 @@
       "website": "http://www.sophos.com",
       "startDate": "2014-05",
       "endDate": "",
-      "summary": "",
+      "summary": "Began assisting with legacy applications, then transitioned to an innovation focused role, driving new processes and setting standards for the rest of the business unit.",
       "highlights": [
-        "Piloted FreeIPA and helped get it rolled out to consolidate identity services. Also assisted in rolling out Foreman and Puppet",
-        "Piloted the introduction of Bamboo, and setup various Docker-based projects to use continuous deployment",
-        "Converted a proprietary web application which was having scaling issues to use Amazon ECS and Autoscaling",
+        "Lead developer of a secure signing service for company-wide usage. It was developed using Perl and Docker in a microservice architecture and some components were released as open source.",
+        "Piloted and assisted in the roll out of FreeIPA to consolidate identity services and enhance security.",
+        "Piloted the introduction of Bamboo, and setup various Docker-based projects to use continuous deployment.",
+        "Converted a proprietary web application which was having scaling issues to autoscale on Amazon ECS.",
         "Migrated legacy applications to new servers in a new data center as part of a project to improve the reliability of critical internal systems",
-        "Part of a project to migrate monitoring from self-hosted Nagios & Icinga to SaaS LogicMonitor "
+        "Migrate and improve monitoring from self-hosted Nagios & Icinga to SaaS LogicMonitor "
       ]
     },
     {
@@ -66,10 +57,10 @@
       "endDate": "2014-05",
       "summary": "Refactoring a proprietary CMS from multiple scripts into one modular commandline application with an improved workflow.",
       "highlights": [
-        "Added a test suite",
-        "Internationalised",
-        "Converted from CGI to Plack + FastCGI",
-        "Debian packaging"
+        "Added a test suite before started refactoring, as there was none.",
+        "Internationalised the templates using Local::MakeText",
+        "Converted from deprecated CGI to Plack + FastCGI.",
+        "Created custom Debian packages for deployment."
       ]
     },
     {
@@ -78,12 +69,12 @@
       "website": "http://web.archive.org/web/20120617212010/http://www.cgtvgames.com/en",
       "startDate": "2006-08",
       "endDate": "2008-12",
-      "summary": "Lead systems administrator of a small IT department, responsible for all the *nix servers in the company. The company is an end-to-end online gambling provider, creating its own game software and backends, and offering play to the public via its own servers. With the exception of Active Directory services, the company's entire server collection of approx 60 machines runs Unix. For one year I was the sole Unix Admin. At the time I started, the company had far outgrown its existing IT systems, so in addition to the general day-to-day maintenance tasks, I have been designing and implementing improved systems, as well as new ones.",
+      "summary": "Lead systems administrator of a small IT department, responsible for over 60 *nix servers. Designed and implemented improved systems in addition to the general day-to-day maintenance tasks.",
       "highlights": [
-        "Setting up a new data centre in a colo in Singapore",
-        "Implementing OpenLDAP for authentication across many Unix services",
-        "Migrating DHCP and DNS servers for the office, adding failover",
-        "Setting up Subversion and Trac for SCM, documentation and collaboration",
+        "Setting up a new data centre in a colo in Singapore.",
+        "Implementing OpenLDAP for authentication across many Unix services.",
+        "Migrating DHCP and DNS servers for the office, adding failover.",
+        "Setting up Subversion and Trac for SCM, documentation and collaboration.",
         "Migrating Jabber services and integrating with LDAP",
         "Implementing Heartbeat/DRBD failover for public-facing web servers",
         "Defining and documenting new standards for operating systems and applications",

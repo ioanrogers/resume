@@ -1,10 +1,9 @@
 {
   "basics": {
     "name": "Ioan Rogers",
-    "label": "Perl Developer & DevOps Engineer",
-    "picture": "http://cdn.libravatar.org/avatar/6c37c18ab724abb2769d2ff6a962d64f",
-    "email": "ioanrogers@protonmail.com",
-    "website": "",
+    "label": "Perl Developer & Systems Administrator",
+    "email": "ioan@rgrs.ca",
+    "website": "http://ioanrogers.github.com/resume",
     "summary": "Developer with 5 years experience in Perl Development and 8 years in Systems Admin. Develops object-oriented Perl and PostgreSQL using containers-based architecture. Dedicated to open source development, innersourcing and the modern DevOps movement, as well as continuous deployment and microservices.",
     "location": {
       "address": "",
@@ -34,12 +33,13 @@
   "work": [
     {
       "company": "Sophos Ltd",
-      "position": "Senior Systems Engineer",
+      "position": "Senior Systems Developer",
       "website": "http://www.sophos.com",
       "startDate": "2014-05",
       "endDate": "",
       "summary": "Began assisting with legacy applications, then transitioned to an innovation focused role, driving new processes and setting standards for the rest of the business unit.",
       "highlights": [
+        "Created an easy to use search interface for a complex inventory system, using Perl and Patternfly",
         "Lead developer of a secure signing service for company-wide usage. This was developed using Perl and Docker in a microservice architecture and some components were released as open source.",
         "Piloted and assisted in the roll out of FreeIPA to consolidate identity services and enhance security.",
         "Piloted the introduction of Bamboo, and setup various Docker-based projects to use continuous deployment.",
@@ -124,8 +124,7 @@
       "keywords": [
         "Moo/Moose",
         "Plack",
-        "DBIx::Class",
-        ""
+        "DBIx::Class"
       ]
     },
     {

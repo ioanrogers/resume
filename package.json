@@ -1,0 +1,7 @@
+{
+  "name": "resume",
+  "dependencies": {
+    "hackmyresume": "*",
+    "jsonresume-theme-paper": "^0.3.5"
+  }
+}
